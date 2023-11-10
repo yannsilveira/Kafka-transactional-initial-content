@@ -1,0 +1,1 @@
+sudo /Users/yannap./Documents/confluent-7.5.1/bin/kafka-console-consumer --bootstrap-server localhost:9092 --from-beginning --whitelist "hello-producer-1|hello-producer-2"

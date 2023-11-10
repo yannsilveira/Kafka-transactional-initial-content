@@ -1,0 +1,1 @@
+sudo /Users/yannap./Documents/confluent-7.5.1/bin/zookeeper-server-start /Users/yannap./Documents/confluent-7.5.1/etc/kafka/zookeeper.properties
